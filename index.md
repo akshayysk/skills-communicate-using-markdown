@@ -10,7 +10,7 @@
 
 ###### This is `<h6>` header
 
-![Your name theatrical release poster](https://www.stisttvm.edu.in/public/images/frontend_images/logoSTIST.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png))
 
 ```python
 print("Hello World")
